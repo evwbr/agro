@@ -8,22 +8,21 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Cobertura recente do agronegócio com foco em produção, mercado, pecuária, clima, cotações, política e logística.</description>
-<lastBuildDate>Sun, 12 Apr 2026 13:51:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 17:51:12 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Pesquisa desenvolve método com inteligência artificial para identificar frescor da carne]]></title>
-<link>https://evwbr.github.io/agro/p/agro_62a7b9208d218c45258e22466da065c8588405e9/</link>
+<title><![CDATA[Inscrições abertas para Prêmio Brasil Artesanal 2026 na categoria azeite]]></title>
+<link>https://evwbr.github.io/agro/p/agro_8feabb1d14164e6fb41791f438b609fb6bd50830/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 12 Apr 2026 12:03:00 GMT</pubDate>
+<pubDate>Sun, 12 Apr 2026 16:03:00 GMT</pubDate>
 <category><![CDATA[Agro]]></category>
-<guid isPermaLink="false"><![CDATA[agro:62a7b9208d218c45258e22466da065c8588405e9]]></guid>
-<description><![CDATA[Um estudo utiliza visão computacional e redes neurais para classificar o frescor da carne bovina, oferecendo uma alternativa não destrutiva e eficiente para o controle de qualidade na indústria alimentícia.]]></description>
+<guid isPermaLink="false"><![CDATA[agro:8feabb1d14164e6fb41791f438b609fb6bd50830]]></guid>
+<description><![CDATA[Produtores podem inscrever azeites nas categorias blend e monovarietal até o fim de abril, com envio das amostras até 15 de maio.]]></description>
 <content:encoded><![CDATA[
-<p>Um estudo utiliza visão computacional e redes neurais para classificar o frescor da carne bovina, oferecendo uma alternativa não destrutiva e eficiente para o controle de qualidade na indústria alimentícia.</p>
-<p>A pesquisa, realizada no projeto RastreIA sediado no Centro de Energia Nuclear na Agricultura (Cena) da USP, apresenta uma abordagem inovadora baseada em visão computacional para avaliar o frescor da carne. Essa tecnologia utiliza modelos de inteligência artificial que reconhecem padrões visuais imperceptíveis a olho nu, possibilitando a verificação rápida e precisa do frescor, o que pode agilizar o controle de qualidade, aumentar a segurança alimentar e reduzir custos na indústria.</p>
-<p>O método combina redes neurais convolucionais profundas com a ferramenta Radam, capaz de extrair e organizar características relevantes das imagens da carne. Essa técnica aproveita o conhecimento de outras IAs já treinadas, exigindo menos dados e menor poder computacional, o que facilita sua aplicação em ambientes industriais como frigoríficos. Testes com conjuntos de dados de imagens de carne bovina categorizadas mostraram níveis de precisão entre 93% e 100%.</p>
-<p>Apesar dos resultados promissores, os pesquisadores destacam que o sistema avalia apenas características visuais externas, não capturando aspectos microbiológicos ou químicos internos que também influenciam o frescor. Fatores como iluminação, posicionamento da câmera e variabilidade natural da carne, como o teor de gordura, podem afetar a precisão, indicando a necessidade de integração com métodos analíticos tradicionais para uma avaliação mais completa.</p>
-<p>A tecnologia desenvolvida representa um avanço significativo para o controle de qualidade na produção de carne bovina, potencialmente contribuindo para a segurança alimentar e a eficiência industrial, especialmente no contexto do Brasil, que lidera mundialmente a produção do setor.</p>
+<p>Produtores podem inscrever azeites nas categorias blend e monovarietal até o fim de abril, com envio das amostras até 15 de maio. A Confederação da Agricultura e Pecuária do Brasil (CNA) promove o Prêmio Brasil Artesanal 2026, que inclui a categoria azeite. O concurso é destinado a produtores interessados em cadastrar um produto por categoria, sendo as opções blend e monovarietal.</p>
+<p>Após a inscrição, as amostras devem ser enviadas até 15 de maio para avaliação. O processo seletivo envolve um júri técnico, análise da história do produto, votação popular e uma etapa final de premiação.</p>
+<p>A iniciativa tem como objetivo ampliar o alcance dos produtos nacionais, reconhecendo o trabalho desenvolvido no campo e possibilitando maior participação e venda em novos mercados. O prêmio conta com o apoio de instituições de pesquisa e fomento ao setor, como a Epamig, Embrapa, UFCSPA e Sebrae Nacional.</p>
+<p>As inscrições são realizadas pela internet, diretamente no site da CNA, e seguem abertas até o final do mês de abril.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
