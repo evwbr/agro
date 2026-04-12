@@ -8,37 +8,22 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Cobertura recente do agronegócio com foco em produção, mercado, pecuária, clima, cotações, política e logística.</description>
-<lastBuildDate>Sat, 11 Apr 2026 19:51:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 13:51:15 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Preço do diesel registra queda pela primeira vez desde o início da guerra no Oriente Médio]]></title>
-<link>https://evwbr.github.io/agro/p/agro_3778d59eadc15851006a973524ddc9452ec59e53/</link>
+<title><![CDATA[Pesquisa desenvolve método com inteligência artificial para identificar frescor da carne]]></title>
+<link>https://evwbr.github.io/agro/p/agro_62a7b9208d218c45258e22466da065c8588405e9/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 11 Apr 2026 18:15:52 GMT</pubDate>
+<pubDate>Sun, 12 Apr 2026 12:03:00 GMT</pubDate>
 <category><![CDATA[Agro]]></category>
-<guid isPermaLink="false"><![CDATA[agro:3778d59eadc15851006a973524ddc9452ec59e53]]></guid>
-<description><![CDATA[O preço médio do diesel nos postos apresentou redução na última semana, interrompendo a sequência de altas desde o início do conflito entre Estados Unidos e Irã.]]></description>
+<guid isPermaLink="false"><![CDATA[agro:62a7b9208d218c45258e22466da065c8588405e9]]></guid>
+<description><![CDATA[Um estudo utiliza visão computacional e redes neurais para classificar o frescor da carne bovina, oferecendo uma alternativa não destrutiva e eficiente para o controle de qualidade na indústria alimentícia.]]></description>
 <content:encoded><![CDATA[
-<p>O preço médio do diesel nos postos apresentou redução na última semana, interrompendo a sequência de altas desde o início do conflito entre Estados Unidos e Irã. Entre os dias 5 e 11, o preço médio do diesel foi de R$ 7,43 por litro, uma queda de R$ 0,02 em relação à semana anterior, quando o valor era de R$ 7,45. A gasolina comum também teve leve redução, passando de R$ 6,78 para R$ 6,77 por litro no mesmo período. O etanol seguiu a tendência e caiu de R$ 4,70 para R$ 4,69 por litro.</p>
-<p>Na segunda-feira, o governo federal anunciou um pacote de medidas para minimizar os efeitos da alta dos combustíveis causada pela guerra no Oriente Médio. Entre as ações está a criação de uma subvenção de R$ 1,20 por litro para a importação de diesel, com custos divididos igualmente entre a União e os estados. Além disso, foi instituída uma subvenção extra de R$ 0,80 por litro para o diesel produzido no Brasil.</p>
-<p>Essas medidas refletem o esforço do governo para conter o aumento dos preços dos combustíveis e aliviar o impacto sobre os consumidores.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[População de jumentos no Brasil pode estar superestimada, alertam especialistas]]></title>
-<link>https://evwbr.github.io/agro/p/agro_18630720fc3a69dbd6d79a7a97f92e5996667538/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 11 Apr 2026 18:03:00 GMT</pubDate>
-<category><![CDATA[Agro]]></category>
-<guid isPermaLink="false"><![CDATA[agro:18630720fc3a69dbd6d79a7a97f92e5996667538]]></guid>
-<description><![CDATA[Pesquisadores e entidades questionam dados oficiais sobre a população de jumentos no Brasil, apontando estimativas infladas que podem ocultar o risco de extinção da espécie, especialmente no Nordeste.]]></description>
-<content:encoded><![CDATA[
-<p>Pesquisadores e entidades questionam dados oficiais sobre a população de jumentos no Brasil, apontando estimativas infladas que podem ocultar o risco de extinção da espécie, especialmente no Nordeste.</p>
-<p>Uma carta aberta assinada por cientistas e organizações destaca inconsistências metodológicas nas projeções populacionais de jumentos, que indicam cerca de 78 mil animais para 2025, número quase dez vezes inferior ao divulgado internacionalmente. A principal crítica recai sobre a base de dados utilizada, que provém da Organização das Nações Unidas para Alimentação e Agricultura (FAO), a qual não realiza censos próprios e trabalha com projeções a partir de dados secundários. No Brasil, a ausência de divulgação oficial específica desde 2013 tem levado ao uso de modelos estatísticos que suavizam oscilações populacionais.</p>
-<p>A divergência entre os números não é nova. Em 2017, o Censo Agropecuário do Instituto Brasileiro de Geografia e Estatística (IBGE) registrou aproximadamente 376 mil jumentos, enquanto estimativas internacionais apontavam mais de 800 mil. Essa discrepância evidencia limitações das projeções, que não refletem a realidade observada no campo e não são recomendadas para a formulação de políticas públicas.</p>
-<p>A redução da população de jumentos está relacionada ao abate para exportação de peles, prática autorizada desde 2016, com apenas um frigorífico ativo no segmento. A ausência de uma cadeia produtiva estruturada, sem controle sobre reprodução e reposição, configura um modelo extrativista que pode levar ao esgotamento da espécie. A demanda internacional por peles, usadas na medicina tradicional chinesa, pressiona o rebanho, cenário semelhante ao observado em países africanos que já proibiram a exportação para conter a atividade.</p>
-<p>Levantamentos indicam queda expressiva da população desde os anos 1990, com redução estimada de até 94%. O jumento nordestino, considerado um ecótipo único, está entre os mais ameaçados. A falta de dados atualizados e de políticas públicas estruturadas de monitoramento agrava o risco de extinção, reforçando a necessidade de séries históricas confiáveis e mecanismos de acompanhamento para orientar ações de preservação.</p>
-<p>Sem informações precisas e monitoramento adequado, a realidade da população de jumentos no Brasil pode continuar distorcida, dificultando a adoção de medidas eficazes para a conservação da espécie.</p>
+<p>Um estudo utiliza visão computacional e redes neurais para classificar o frescor da carne bovina, oferecendo uma alternativa não destrutiva e eficiente para o controle de qualidade na indústria alimentícia.</p>
+<p>A pesquisa, realizada no projeto RastreIA sediado no Centro de Energia Nuclear na Agricultura (Cena) da USP, apresenta uma abordagem inovadora baseada em visão computacional para avaliar o frescor da carne. Essa tecnologia utiliza modelos de inteligência artificial que reconhecem padrões visuais imperceptíveis a olho nu, possibilitando a verificação rápida e precisa do frescor, o que pode agilizar o controle de qualidade, aumentar a segurança alimentar e reduzir custos na indústria.</p>
+<p>O método combina redes neurais convolucionais profundas com a ferramenta Radam, capaz de extrair e organizar características relevantes das imagens da carne. Essa técnica aproveita o conhecimento de outras IAs já treinadas, exigindo menos dados e menor poder computacional, o que facilita sua aplicação em ambientes industriais como frigoríficos. Testes com conjuntos de dados de imagens de carne bovina categorizadas mostraram níveis de precisão entre 93% e 100%.</p>
+<p>Apesar dos resultados promissores, os pesquisadores destacam que o sistema avalia apenas características visuais externas, não capturando aspectos microbiológicos ou químicos internos que também influenciam o frescor. Fatores como iluminação, posicionamento da câmera e variabilidade natural da carne, como o teor de gordura, podem afetar a precisão, indicando a necessidade de integração com métodos analíticos tradicionais para uma avaliação mais completa.</p>
+<p>A tecnologia desenvolvida representa um avanço significativo para o controle de qualidade na produção de carne bovina, potencialmente contribuindo para a segurança alimentar e a eficiência industrial, especialmente no contexto do Brasil, que lidera mundialmente a produção do setor.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
