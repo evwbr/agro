@@ -8,22 +8,38 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Cobertura recente do agronegócio com foco em produção, mercado, pecuária, clima, cotações, política e logística.</description>
-<lastBuildDate>Sat, 02 May 2026 13:51:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 15:51:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Capital próprio avança no campo paulista e muda perfil financeiro do produtor]]></title>
-<link>https://evwbr.github.io/agro/p/agro_f9aaeec57d01eb905188d6cf549d28d299dd3774/</link>
+<title><![CDATA[Um ano da proibição da murta em São Paulo para combater o greening]]></title>
+<link>https://evwbr.github.io/agro/p/agro_bfd812d8f4c214ef8b8541aee68f3fabf0a24646/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 02 May 2026 12:03:00 GMT</pubDate>
+<pubDate>Sat, 02 May 2026 15:05:50 GMT</pubDate>
 <category><![CDATA[Agro]]></category>
-<guid isPermaLink="false"><![CDATA[agro:f9aaeec57d01eb905188d6cf549d28d299dd3774]]></guid>
-<description><![CDATA[Produtores rurais de São Paulo aumentam o uso de recursos próprios e crédito rural para financiar atividades, indicando mudanças na gestão financeira no campo.]]></description>
+<guid isPermaLink="false"><![CDATA[agro:bfd812d8f4c214ef8b8541aee68f3fabf0a24646]]></guid>
+<description><![CDATA[Completa-se um ano da vigência da Resolução SAA nº 24/2025, que proibiu a produção, comércio, plantio e transporte da murta em todo o estado de São Paulo como medida para conter o avanço do greening, doença devastadora da citricultura.]]></description>
 <content:encoded><![CDATA[
-<p>Produtores rurais de São Paulo aumentam o uso de recursos próprios e crédito rural para financiar atividades, indicando mudanças na gestão financeira no campo. O uso de capital próprio para capital de giro nas propriedades rurais paulistas cresceu de 78% em 2021 para 84% em 2025. Paralelamente, o crédito rural ampliou sua participação como fonte de financiamento, passando de 8% para 17% no mesmo período. Esse movimento também é observado na aquisição de equipamentos agrícolas, com o uso de recursos próprios subindo de 59% para 79% entre 2021 e 2025.</p>
-<p>A pesquisa revela uma maior participação dos produtores na condução financeira dos negócios, refletindo mudanças na gestão das propriedades e no processo decisório. Essa transformação demanda uma comunicação mais alinhada à realidade do campo, baseada em dados, confiança e entrega de valor.</p>
-<p>Além das questões financeiras, as mudanças climáticas são a principal preocupação dos produtores paulistas, com 99% avaliando que elas impactarão a produção devido a secas, chuvas intensas e variações de temperatura. O clima é apontado como a principal preocupação por 68% dos entrevistados, seguido pelos custos de produção e pela comercialização.</p>
-<p>Apesar da percepção da necessidade de adaptação, 28% dos produtores classificam como altas ou muito altas as barreiras para adoção de tecnologias de manejo, citando fatores como custo elevado, falta de informação, limitação de apoio técnico, acesso restrito a recursos e incertezas sobre os resultados.</p>
-<p>Os dados indicam que o produtor rural paulista está mais protagonista e criterioso nas decisões financeiras, o que impacta a relação com empresas do setor e reforça a importância de uma gestão eficiente nas propriedades.</p>
+<p>Completa-se um ano da vigência da Resolução SAA nº 24/2025, que proibiu a produção, comércio, plantio e transporte da murta em todo o estado de São Paulo como medida para conter o avanço do greening, doença devastadora da citricultura.</p>
+<p>A murta, popular no paisagismo urbano por seu aroma e resistência, é o principal hospedeiro do psilídeo, inseto vetor da bactéria causadora do greening. Como essa planta não recebe os tratamentos químicos aplicados nos pomares comerciais, ela funciona como reservatório e centro de disseminação da praga para as laranjeiras no cinturão citrícola.</p>
+<p>A Defesa Agropecuária de São Paulo reforça que a proibição abrange não apenas novos plantios, mas também a eliminação obrigatória das murtas existentes em áreas urbanas e rurais. O descumprimento das normas implica penalidades previstas em decreto estadual. A fiscalização tem foco em viveiros e comércio de mudas, e a colaboração da população é considerada fundamental.</p>
+<p>Dados recentes indicam que a incidência do greening no cinturão citrícola atingiu níveis recordes, aproximando-se de 48% em 2025. Sem cura disponível, o controle depende da prevenção, incluindo a erradicação de plantas doentes e a eliminação de hospedeiras como a murta. A recomendação para quem possui a planta é substituí-la por espécies nativas ou ornamentais que não representem risco à agricultura.</p>
+<p>A medida visa garantir a manutenção da liderança de São Paulo na produção global de suco de laranja, reforçando a importância da conscientização urbana e do rigor sanitário no campo.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Inteligência artificial automatiza identificação de vespas para controle biológico na agricultura]]></title>
+<link>https://evwbr.github.io/agro/p/agro_87e61b9ab4a56b5893266395e9be4f1ecc895640/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 02 May 2026 14:03:00 GMT</pubDate>
+<category><![CDATA[Agro]]></category>
+<guid isPermaLink="false"><![CDATA[agro:87e61b9ab4a56b5893266395e9be4f1ecc895640]]></guid>
+<description><![CDATA[Pesquisadores desenvolveram um sistema baseado em deep learning para identificar vespas parasitoides com alta precisão, facilitando o trabalho de especialistas em taxonomia e contribuindo para o controle de pragas agrícolas.]]></description>
+<content:encoded><![CDATA[
+<p>Pesquisadores desenvolveram um sistema baseado em deep learning para identificar vespas parasitoides com alta precisão, facilitando o trabalho de especialistas em taxonomia e contribuindo para o controle de pragas agrícolas.</p>
+<p>Utilizando um banco de dados com mais de 3 mil imagens em alta resolução, a técnica de visão computacional e aprendizado profundo identificou vespas parasitoides da família Ichneumonidae, um dos grupos mais diversos da ordem Hymenoptera. O estudo, realizado por biólogos da Universidade Federal de São Carlos em parceria com o Instituto Nacional de Ciência e Tecnologia dos Hymenoptera Parasitoides da Região Sudeste, tem potencial para revolucionar a descrição e catalogação de insetos, atividades que demandam profissionais altamente qualificados e muito tempo devido ao método manual de comparação.</p>
+<p>A identificação taxonômica precisa é fundamental para o monitoramento da biodiversidade, pesquisas ecológicas e estratégias de controle biológico. Insetos representam cerca de metade da biomassa global, mas aproximadamente 80% das espécies ainda não são conhecidas, o que afeta diretamente a conservação e práticas agrícolas. A tecnologia aplicada permite que o computador reconheça características visuais relevantes, como padrões na nervação das asas e formato do corpo, possibilitando a identificação automática do animal por família, gênero ou espécie.</p>
+<p>O material biológico utilizado no estudo foi cedido pela coleção taxonômica da UFSCar e incluiu 3.556 imagens que treinaram o algoritmo, disponível publicamente. O modelo demonstrou capacidade de aprender morfologias específicas dos insetos, ativando regiões como as asas para realizar predições. Essa abordagem pode ampliar a visão humana, identificando detalhes invisíveis ao olho nu, uma inovação que pode poupar tempo dos especialistas e aprimorar o monitoramento de espécies essenciais para o equilíbrio dos ecossistemas agrícolas.</p>
+<p>O avanço da inteligência artificial na entomologia representa um importante passo para a ciência, unindo tecnologia e biologia para melhorar a conservação da biodiversidade e a eficiência no controle biológico de pragas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
