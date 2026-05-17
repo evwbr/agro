@@ -8,23 +8,23 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 17 May 2026 18:47:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 19:47:34 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Embrapa desenvolve sistema com drones e inteligência artificial para monitorar bovinos em confinamento]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_0412f6d771dfec6d25f5a2f5569914742a9ffa05/</link>
+<title><![CDATA[Oferta elevada limita recuperação dos preços do arroz no Rio Grande do Sul]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_f422cc6c6ddb466499ccecfe07998019b064aef7/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 17 May 2026 18:02:00 GMT</pubDate>
+<pubDate>Sun, 17 May 2026 19:08:35 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:0412f6d771dfec6d25f5a2f5569914742a9ffa05]]></guid>
-<description><![CDATA[Pesquisadores criaram tecnologia que identifica o momento ideal para venda ou abate de bovinos, reduzindo custos e estresse animal.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:f422cc6c6ddb466499ccecfe07998019b064aef7]]></guid>
+<description><![CDATA[Atualização de economia e agronegócio.]]></description>
 <content:encoded><![CDATA[
-<p>A Embrapa Agricultura Digital desenvolveu um sistema que utiliza drones e inteligência artificial para monitorar o crescimento de bovinos em confinamento, indicando o momento mais adequado para venda ou abate dos animais. O estudo foi publicado na revista científica Computers and Electronics in Agriculture e integra o projeto Semear Digital, um dos Centros de Ciência para o Desenvolvimento da Fundação de Amparo à Pesquisa do Estado de São Paulo, sediado em Campinas.</p>
-<p>O objetivo da tecnologia é diminuir o manejo tradicional de pesagem, que exige manipulação intensa dos animais e pode causar estresse, afetando seu bem-estar e ganho de peso. Além disso, o método convencional com balanças apresenta limitações, como avarias frequentes, s pesquisadores envolvidos.</p>
-<p>O sistema foi testado em um confinamento no Mato Grosso do Sul, onde drones realizaram voos a cerca de 15 metros de altura durante 112 dias para captar imagens do lote. Com esses registros, equipes da Embrapa, da Universidade de São Paulo e da Universidade Federal da Grande Dourados desenvolveram modelos de inteligência artificial capazes de identificar os animais e extrair medidas corporais, como comprimento e largura.</p>
-<p>O chamado "ponto de inflexão" marca o momento de maior taxa de ganho de peso, após o qual a eficiência da conversão alimentar diminui. Identificar esse ponto é fundamental para otimizar custos, especialmente com alimentação, e melhorar a rentabilidade do sistema.</p>
-<p>Além do monitoramento do crescimento, a base de dados está sendo utilizada para estudar o comportamento animal, identificando padrões alimentares, sinais de estresse e até a ocorrência de monta entre os bovinos. Os pesquisadores trabalham na adaptação da tecnologia para outras raças, como angus e brahman, e avançam na validação para uso direto no confinamento.</p>
-<p>A expectativa é que, ao identificar o momento ideal para o abate, seja possível reduzir os custos de produção e contribuir para a diminuição do preço da carne. O sistema está próximo de se tornar um protótipo funcional, mas ainda depende de um parceiro para ser transformado em um produto comercial.</p>
+<p>No Rio Grande do Sul, os trabalhos de colheita do arroz estão quase concluídos, consolidando uma produção próxima de 7,9 milhões de toneladas, base casca. A safra brasileira deve alcançar cerca de 11 milhões de toneladas, mantendo a oferta elevada no mercado.</p>
+<p>Com esse cenário, os preços do arroz seguem pressionados, embora encontrem alguma sustentação na postura mais cautelosa dos produtores capitalizados.</p>
+<p>O início da temporada já registra déficit na balança comercial do arroz, com importações superiores às exportações.</p>
+<p>No âmbito internacional, o ambiente começa a apresentar fatores que podem sustentar os preços. O relatório mais recente do Departamento de Agricultura dos Estados Unidos (USDA) indica redução da área plantada e da produção mundial para a temporada 2025/26, além de estoques finais ligeiramente menores em comparação ao ano anterior.</p>
+<p>Além disso, o retorno das discussões sobre o fenômeno El Niño, as ondas de calor na Índia, o excesso de chuvas em Bangladesh e os custos mais elevados de fertilizantes, combustíveis e crédito agrícola aumentam a preocupação com a capacidade produtiva global nas próximas temporadas.</p>
+<p>No Rio Grande do Sul, a média da saca de arroz com padrão de 58% a 62% de grãos inteiros e pagamento à vista fechou a quinta-feira (14) cotada a R$ 60,24. Em relação ao início de 2025, a desvalorização chega a 21,16%.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
