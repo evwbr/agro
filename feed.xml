@@ -8,23 +8,24 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Tue, 19 May 2026 07:47:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 08:47:40 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Comissão especial discute redução da jornada de trabalho e fim da escala 6×1]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_b3f50159a7e72a27042d81c2eb2613421ecf50c4/</link>
+<title><![CDATA[Estudo da Embrapa usa inteligência artificial para prever infestação de plantas daninhas em sistemas ILP]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_12fdfcc7440f4a97ba3b634c24b1621f7e0358f2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 19 May 2026 06:55:26 GMT</pubDate>
+<pubDate>Tue, 19 May 2026 08:05:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:b3f50159a7e72a27042d81c2eb2613421ecf50c4]]></guid>
-<description><![CDATA[Uma comissão especial analisa duas propostas de emenda à Constituição que tratam da redução da jornada de trabalho e do fim da escala 6×1, com relatório inicial previsto para esta quarta-feira (20).]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:12fdfcc7440f4a97ba3b634c24b1621f7e0358f2]]></guid>
+<description><![CDATA[Pesquisa realizada no Cerrado demonstra que algoritmos de aprendizado de máquina podem antecipar a ocorrência de plantas invasoras em sistemas de Integração Lavoura-Pecuária, auxiliando no manejo agrícola.]]></description>
 <content:encoded><![CDATA[
-<p>A comissão especial debate a PEC 221/19, que propõe a redução gradual da jornada para 36 horas semanais ao longo de dez anos, e a PEC 8/25, que sugere uma semana de quatro dias com limite de 36 horas e transição de um ano.</p>
-<p>Durante audiência, o diretor da Confederação Nacional da Indústria (CNI), Alexandre Furlan, alertou que a redução da jornada sem corte salarial pode aumentar os custos de produção.</p>
-<p>O debate indica possível impacto na organização do trabalho rural, especialmente em sistemas que dependem de manejo diário, embora não tenham sido apresentadas estimativas numéricas específicas para o setor agropecuário. O presidente da Confederação Nacional do Transporte (CNT), Vander Costa, afirmou que o setor precisaria contratar mais de 250 mil profissionais em um cenário de pleno emprego.</p>
-<p>Na área da saúde, a Confederação Nacional de Saúde (CNSaúde) sugeriu uma transição gradual e ajustes para escalas de 12 por 36 horas.</p>
-<p>O presidente da Câmara dos Deputados, Hugo Motta, anunciou um acordo com o governo para reduzir a jornada para 40 horas semanais, com dois dias de descanso e sem redução salarial.</p>
-<p>Para o setor agropecuário, o principal desafio é adaptar a regra geral a atividades que exigem mão de obra contínua. A definição do texto final da comissão, incluindo exceções e transições, será fundamental para avaliar os efeitos práticos sobre custos, escalas e operação no campo, que ainda dependem da redação final em discussão no Congresso.</p>
+<p>A pesquisa foi conduzida no Cerrado, em Sete Lagoas (MG), e analisou dados relacionados ao clima, solo, sistemas de cultivo e ocorrência dessas invasoras.</p>
+<p>Para criar o modelo preditivo, os pesquisadores reuniram três grupos principais de informações: dados quantitativos sobre as espécies de plantas daninhas presentes nas áreas avaliadas, características dos solos e dos sistemas produtivos. Com esses dados, os algoritmos identificaram padrões e relações entre o ambiente, o manejo e a ocorrência das plantas invasoras. Entre os modelos utilizados estão Support Vector Machine, Decision Tree, Random Forest e K-Nearest Neighbors.</p>
+<p>Os sistemas de Integração Lavoura-Pecuária geralmente apresentam menor população de plantas daninhas em comparação aos modelos convencionais, principalmente devido à presença das forrageiras nas pastagens, que mantêm o solo coberto e dificultam o desenvolvimento das invasoras. A inteligência artificial pode ajudar os produtores a adotar práticas preventivas e ajustar o manejo para diminuir a incidência dessas plantas.</p>
+<p>O novo estudo amplia esse conhecimento ao focar na prevenção e previsão da ocorrência das invasoras dentro dos sistemas ILP.</p>
+<p>O experimento foi realizado em áreas de Integração Lavoura-Pecuária com milho consorciado com braquiária, sorgo com braquiária, soja e pastagem de braquiária. As coletas ocorreram em diferentes períodos do ano, incluindo colheita, entressafra, pré-dessecação e fase inicial das culturas, antes da aplicação dos herbicidas.</p>
+<p>A pesquisa também busca contribuir para a sustentabilidade e o aumento da produção agrícola, diante da estimativa de que a população mundial chegará a 9 bilhões até 2050, o que exige sistemas produtivos mais eficientes e com menor impacto ambiental. O controle de plantas daninhas permanece como um dos principais desafios da agricultura, e tecnologias que reduzam a dependência de herbicidas ganham destaque na agenda de sustentabilidade da agropecuária.</p>
+<p>O estudo foi publicado na revista Pesquisa Agropecuária Brasileira (PAB), em uma edição especial que comemora os 60 anos do periódico.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
