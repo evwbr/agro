@@ -8,22 +8,24 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sat, 23 May 2026 13:47:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 14:47:37 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Colheita de café registra atraso em relação ao ano passado e à média histórica]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_052d5d679a74c2ef44d63a80097e294547628de5/</link>
+<title><![CDATA[Nova norma endurece critérios para autorização de desmate e digitaliza processos ambientais]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_ce6cd4663e54ec1adf34312f2a91e8ddcfed49ac/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 23 May 2026 13:25:52 GMT</pubDate>
+<pubDate>Sat, 23 May 2026 14:05:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:052d5d679a74c2ef44d63a80097e294547628de5]]></guid>
-<description><![CDATA[A colheita do café no Brasil apresenta atraso em comparação ao mesmo período do ano passado e à média dos últimos cinco anos, especialmente na variedade canéfora.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:ce6cd4663e54ec1adf34312f2a91e8ddcfed49ac]]></guid>
+<description><![CDATA[A nova resolução estabelece regras mais rigorosas para a emissão da Autorização de Supressão de Vegetação Nativa (ASV), exigindo regularização completa do Cadastro Ambiental Rural e digitalização total dos pedidos.]]></description>
 <content:encoded><![CDATA[
-<p>O percentual de café colhido está abaixo dos 13% registrados no mesmo período do ano anterior e também inferior à média dos últimos cinco anos, que é de 14% para esta época da temporada.</p>
-<p>A variedade canéfora, que inclui conilon e robusta, apresenta um atraso mais significativo. A colheita atingiu 13% da produção, contra 20% no mesmo período de 2023 e 22% na média dos últimos cinco anos.</p>
-<p>Rondônia é a principal exceção, com a colheita do robusta avançando com maior intensidade nas últimas semanas.</p>
-<p>Há uma melhora gradual no rendimento das lavouras mais novas e com maior potencial produtivo, o que pode contribuir para a recuperação da produção.</p>
-<p>No café arábica, a colheita alcança 7% da produção nacional, também abaixo dos 9% registrados no mesmo período do ano passado e inferior à média histórica para esta época.</p>
+<p>A norma padroniza e torna mais rigorosos os critérios para a emissão da ASV, documento necessário para o desmate legal. Os processos, antes baseados em documentos textuais, passam a ser totalmente digitais, georreferenciados e auditáveis, vinculando a abertura de novas áreas à regularidade absoluta do imóvel rural.</p>
+<p>Agora, o Cadastro Ambiental Rural (CAR) deve estar completamente regularizado para que qualquer pedido de desmate seja avaliado. O imóvel precisa ter o cadastro ativo, sem pendências ou notificações não respondidas, e a localização da Reserva Legal e das Áreas de Preservação Permanente deve estar validada pelo órgão estadual competente.</p>
+<p>A análise do CAR deve respeitar legislações específicas de cada bioma, como as normas restritivas para o Pantanal. O órgão ambiental tem até 90 dias para concluir a avaliação do pedido. A era dos pedidos genéricos baseados apenas em memoriais descritivos textuais foi encerrada.</p>
+<p>Os produtores devem apresentar polígonos georreferenciados exatos, em formato shapefile, da área a ser aberta, além de um inventário florestal e cálculo do volume de madeira. Todas as autorizações são centralizadas no Sistema Nacional de Controle da Origem dos Produtos Florestais (Sinaflor), permitindo que qualquer cidadão acesse o Mapa do polígono autorizado pela internet.</p>
+<p>As licenças ambientais passam a ter validade estrita de 12 meses, prorrogáveis uma única vez pelo mesmo período. Para casos que exigem Estudo de Impacto Ambiental (EIA) e Relatório de Impacto Ambiental (RIMA), o prazo para o desmate está vinculado ao cronograma de implantação da licença do empreendimento.</p>
+<p>A resolução também define regras para áreas que ficaram paradas e acumularam vegetação secundária. Se a interrupção do uso do solo foi de até cinco anos, a limpeza pode dispensar nova autorização, desde que comprovado o uso consolidado anterior. Autorizações não podem ser emitidas para imóveis com CAR suspenso, cancelado ou com inconsistências graves no Instituto Nacional de Colonização e Reforma Agrária (Incra).</p>
+<p>Prefeituras só podem emitir licenças de supressão se comprovarem possuir corpo técnico habilitado e estrutura administrativa para fiscalizar o processo. Para evitar problemas, é recomendada a revisão antecipada do sistema do CAR e a contratação de equipe técnica qualificada para garantir a validade da licença.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
