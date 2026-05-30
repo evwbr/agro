@@ -8,22 +8,22 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sat, 30 May 2026 18:47:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 20:49:22 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Espécie ameaçada retorna à Serra da Ibiapaba após mais de um século]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_369e326db3874c5fbf37efb602b9bc9421c53866/</link>
+<title><![CDATA[Pesquisadores desenvolvem hidrogéis 3D para controle eficiente de bioativos na agricultura]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_a98aa69538e8a44137767d7c406cfc36e5a4332c/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 30 May 2026 18:00:00 GMT</pubDate>
+<pubDate>Sat, 30 May 2026 20:05:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:369e326db3874c5fbf37efb602b9bc9421c53866]]></guid>
-<description><![CDATA[A reintrodução de uma ave ameaçada na Serra da Ibiapaba marca um avanço histórico na conservação da espécie e simboliza seu retorno à região após mais de cem anos sem registros.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:a98aa69538e8a44137767d7c406cfc36e5a4332c]]></guid>
+<description><![CDATA[Hidrogéis impressos em 3D com compostos naturais ampliam a estabilidade e o controle da liberação de bioativos, promovendo manejo agrícola mais sustentável.]]></description>
 <content:encoded><![CDATA[
-<p>O retorno da espécie à Serra da Ibiapaba, localizada na divisa entre Ceará e Piauí, representa um marco importante para a conservação ambiental. Essa iniciativa faz parte do Plano de Ação Nacional para a Conservação das Aves da Caatinga (PAN Aves da Caatinga), que orienta esforços em todo o país para proteger espécies ameaçadas e seus habitats no bioma Caatinga.</p>
-<p>O projeto utiliza técnicas modernas de manejo e conservação, incluindo a translocação de indivíduos em vida livre, ambientação em recintos controlados, soltura gradual, monitoramento constante dos animais reintroduzidos e instalação de caixas-ninho para estimular a reprodução. Esses procedimentos vão além de números, pois simbolizam a retomada de um processo ecológico interrompido há décadas.</p>
-<p>A ausência da espécie na Serra da Ibiapaba estava ligada principalmente à perda de habitat e à captura ilegal de aves silvestres, problemas que ainda desafiam a conservação. Nesse cenário, o Parque Nacional de Ubajara tem papel estratégico, atuando como área-chave para proteger a biodiversidade e recuperar espécies ameaçadas.</p>
-<p>A colaboração entre o parque, organizações especializadas e centros de pesquisa tem sido fundamental para o sucesso das ações de conservação e reintrodução. Apesar dos avanços, especialistas ressaltam a necessidade de acompanhamento contínuo da espécie.</p>
-<p>Para garantir a consolidação da população reintroduzida e a permanência da espécie na região, será essencial manter as ações de translocação para reforço populacional, monitoramento, proteção e engajamento social nos próximos anos.</p>
+<p>Pesquisadores criaram hidrogéis impressos em 3D formulados com alginato de sódio, pectina e Pluronic F127, que permitem ampliar a estabilidade dos bioativos e controlar sua liberação ao longo do tempo.</p>
+<p>Os resultados indicaram taxas de atração superiores a 50%, especialmente em estruturas produzidas com pectina, demonstrando maior eficiência na liberação dos compostos.</p>
+<p>A proposta visa tornar o controle dos bioativos mais preciso e menos dependente de pulverizações constantes, o que pode reduzir os impactos ambientais e aumentar a eficiência do manejo agrícola.</p>
+<p>O estudo ressalta que a combinação de compostos naturais, nanoencapsulamento e manufatura aditiva biodegradável configura uma alternativa promissora para a agricultura sustentável.</p>
+<p>A expectativa é avançar para testes em condições reais de cultivo e expandir o uso da tecnologia com novos compostos bioativos, ampliando seu potencial no setor agrícola.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
