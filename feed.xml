@@ -8,21 +8,22 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 31 May 2026 12:47:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 13:47:48 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Estudo revela moléculas do fungo Penicillium italicum para combater mofo azul em frutas cítricas]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_ff32185c148533c4ca7ca93ef100c0b57b690d74/</link>
+<title><![CDATA[Tecnologia reforça brigadas comunitárias no combate a incêndios no Cerrado]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_2f852c7c626ab4ccf257b280ced7d294dd10ccd0/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 31 May 2026 12:05:00 GMT</pubDate>
+<pubDate>Sun, 31 May 2026 12:55:02 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:ff32185c148533c4ca7ca93ef100c0b57b690d74]]></guid>
-<description><![CDATA[Pesquisa detalha como o fungo causador do mofo azul em laranjas, limões e tangerinas se instala e defende a fruta, abrindo caminho para novos métodos de controle mais seguros.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:2f852c7c626ab4ccf257b280ced7d294dd10ccd0]]></guid>
+<description><![CDATA[Torres de monitoramento em tempo real, algoritmos de detecção de fumaça e um aplicativo offline estão sendo incorporados às brigadas comunitárias que atuam em unidades de conservação do Cerrado.]]></description>
 <content:encoded><![CDATA[
-<p>O fungo Penicillium italicum, responsável pelo mofo azul em frutas cítricas, pode contaminar rapidamente uma caixa inteira de laranjas, limões ou tangerinas ao surgir apenas um pequeno ponto branco-azulado na casca. Ao se instalar, o patógeno ativa um complexo sistema químico de defesa para invadir o fruto.</p>
-<p>Atualmente, o controle do mofo azul depende do uso de fungicidas sintéticos como imazalil e tiabendazol, que enfrentam resistência crescente e geram preocupações ambientais. Para avançar no combate ao fungo, pesquisadores mapearam as moléculas produzidas pelo patógeno durante a infecção, utilizando técnicas avançadas de metabolômica para analisar os produtos do metabolismo do organismo.</p>
-<p>O estudo identificou compostos essenciais para o desenvolvimento da infecção, demonstrando em laboratório que, sem essas substâncias químicas, o fungo não consegue se estabelecer. O próximo passo é desenvolver inibidores específicos dessas vias metabólicas, capazes de desarmar o patógeno sem prejudicar o fruto hospedeiro.</p>
-<p>Identificar as moléculas produzidas pelo Penicillium italicum é fundamental para criar estratégias de controle mais específicas, seguras para o meio ambiente, menos nocivas à saúde humana e com menor risco de resistência fúngica ou bacteriana.</p>
+<p>Essas iniciativas, apoiadas pelo Programa Copaíbas, têm como objetivo acelerar a identificação de focos de incêndio e melhorar a coordenação das equipes em campo. Uma das estruturas mais recentes começou a operar em maio no Parque Nacional da Serra da Bodoquena, em Mato Grosso do Sul.</p>
+<p>O sistema instalado utiliza algoritmos capazes de detectar sinais iniciais de fumaça quase em tempo real, enviando alertas imediatos às equipes de monitoramento. Essa tecnologia se diferencia dos sistemas baseados apenas em imagens de satélite, que podem apresentar atraso na detecção do fogo.</p>
+<p>O Programa Copaíbas, gerido pelo Fundo Brasileiro para a Biodiversidade (Funbio) e financiado pela Iniciativa Internacional da Noruega pelo Clima e Florestas, atua nos biomas Amazônia e Cerrado com ações voltadas à redução do desmatamento, fortalecimento de unidades de conservação e apoio a povos indígenas e populações tradicionais.</p>
+<p>Em 2025, o programa destinou R$ 5 milhões a projetos de Manejo Integrado do Fogo (MIF) em unidades de conservação e seus entornos. Outra ferramenta apoiada é o aplicativo Caminho do Fogo, desenvolvido pela Rede Contra Fogo, que reúne dados sobre ocorrências, localização e território, permitindo comunicação entre equipes, monitoramento e registro das operações mesmo sem acesso à internet.</p>
+<p>Com base nessas tecnologias, as brigadas comunitárias ampliam sua capacidade operacional para monitorar e combater o fogo em estágio inicial. No entanto, ainda não foram divulgados dados consolidados sobre a redução de ocorrências ou da área queimada após a adoção dessas ferramentas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
