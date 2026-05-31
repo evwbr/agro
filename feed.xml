@@ -8,21 +8,21 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sat, 30 May 2026 22:47:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 12:47:38 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Preços da arroba do boi gordo apresentam estabilidade ou queda em maio com maior oferta]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_758c03c3e1f2e912b13e189f26c99657475c46ff/</link>
+<title><![CDATA[Estudo revela moléculas do fungo Penicillium italicum para combater mofo azul em frutas cítricas]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_ff32185c148533c4ca7ca93ef100c0b57b690d74/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 30 May 2026 22:02:20 GMT</pubDate>
+<pubDate>Sun, 31 May 2026 12:05:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:758c03c3e1f2e912b13e189f26c99657475c46ff]]></guid>
-<description><![CDATA[Os preços da arroba do boi gordo mantiveram-se estáveis ou apresentaram queda na maior parte das regiões de comercialização do Brasil durante maio, devido à maior disponibilidade de oferta.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:ff32185c148533c4ca7ca93ef100c0b57b690d74]]></guid>
+<description><![CDATA[Pesquisa detalha como o fungo causador do mofo azul em laranjas, limões e tangerinas se instala e defende a fruta, abrindo caminho para novos métodos de controle mais seguros.]]></description>
 <content:encoded><![CDATA[
-<p>Ao longo do mês, o setor acompanhou atentamente os embarques destinados à China, diante da expectativa de que a cota brasileira possa se esgotar entre junho e julho.</p>
-<p>O volume total exportado pelo país atingiu 203,480 mil toneladas, com uma média diária de 13,565 mil toneladas.</p>
-<p>Em comparação a maio de 2025, o valor médio diário das exportações aumentou 63,1%, enquanto a quantidade média diária exportada cresceu 30,7%.</p>
-<p>Além disso, o preço médio das exportações avançou 24,8% no mesmo período.</p>
+<p>O fungo Penicillium italicum, responsável pelo mofo azul em frutas cítricas, pode contaminar rapidamente uma caixa inteira de laranjas, limões ou tangerinas ao surgir apenas um pequeno ponto branco-azulado na casca. Ao se instalar, o patógeno ativa um complexo sistema químico de defesa para invadir o fruto.</p>
+<p>Atualmente, o controle do mofo azul depende do uso de fungicidas sintéticos como imazalil e tiabendazol, que enfrentam resistência crescente e geram preocupações ambientais. Para avançar no combate ao fungo, pesquisadores mapearam as moléculas produzidas pelo patógeno durante a infecção, utilizando técnicas avançadas de metabolômica para analisar os produtos do metabolismo do organismo.</p>
+<p>O estudo identificou compostos essenciais para o desenvolvimento da infecção, demonstrando em laboratório que, sem essas substâncias químicas, o fungo não consegue se estabelecer. O próximo passo é desenvolver inibidores específicos dessas vias metabólicas, capazes de desarmar o patógeno sem prejudicar o fruto hospedeiro.</p>
+<p>Identificar as moléculas produzidas pelo Penicillium italicum é fundamental para criar estratégias de controle mais específicas, seguras para o meio ambiente, menos nocivas à saúde humana e com menor risco de resistência fúngica ou bacteriana.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
