@@ -8,23 +8,21 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Tue, 21 Jul 2026 07:47:40 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 11:47:43 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Embrapa Trigo acelera pesquisa genética com nova tecnologia de sequenciamento]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_e3efd88a05254222b6a2020406142fe91f94f2b3/</link>
+<title><![CDATA[Frente fria avança pelo Sul e começa a influenciar o tempo em São Paulo]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_62c9ed0752882174149a462cb16b7fd956948266/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 21 Jul 2026 07:15:00 GMT</pubDate>
+<pubDate>Tue, 21 Jul 2026 11:22:30 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:e3efd88a05254222b6a2020406142fe91f94f2b3]]></guid>
-<description><![CDATA[A Embrapa Trigo reduziu de dias para cerca de 12 horas o processo de identificação de marcadores genéticos, acelerando o melhoramento do trigo e diminuindo custos.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:62c9ed0752882174149a462cb16b7fd956948266]]></guid>
+<description><![CDATA[Uma frente fria avança pela Região Sul do Brasil e começa a afetar o clima em São Paulo a partir de quarta-feira, enquanto o bloqueio atmosférico mantém o tempo firme em grande parte do Sudeste, Centro-Oeste e interior do Nordeste.]]></description>
 <content:encoded><![CDATA[
-<p>A incorporação do sequenciamento de segunda geração no Laboratório de Biotecnologia da Embrapa Trigo permitiu reduzir um processo que antes levava dias para cerca de 12 horas. Com dois novos equipamentos, o ION Chef, que prepara as amostras, e o ION GeneStudio S5 Plus, responsável pelo sequenciamento, a pesquisa ganhou eficiência e rapidez na identificação de marcadores genéticos ligados à produtividade e resistência a doenças na cultura do trigo.</p>
-<p>O genoma do trigo é cinco vezes maior que o genoma humano, o que torna o trabalho complexo. Isso possibilitou o desenvolvimento de um painel de marcadores para uso na cultura do trigo, permitindo a análise simultânea de 384 amostras com 202 marcadores, gerando aproximadamente 80 mil pontos de dados.</p>
-<p>A nova tecnologia aumenta a eficiência na geração de novas cultivares e na identificação de alelos ou genes de interesse para o melhoramento genético. O pesquisador Luciano Consoli compara a evolução do processo a passar de uma representação cartográfica simples para um Mapa detalhado, com ruas e placas de sinalização, o que facilita a seleção genética.</p>
-<p>As cultivares de trigo que apresentam marcadores moleculares associados a características desejadas, como resistência a doenças, podem ser usadas nos cruzamentos dos programas de melhoramento. A pesquisadora Gisele Torres ressalta, porém, que a presença do marcador não garante resistência, sendo fundamental a avaliação das plantas em campo para confirmar a reação ao patógeno.</p>
-<p>Também é possível caracterizar marcadores ligados a genes relacionados à resposta imunológica ao glúten, importante para o desenvolvimento de trigos adequados para celíacos.</p>
-<p>O pesquisador Luciano Consoli destaca o avanço tecnológico, comparando a evolução das ferramentas de análise genética a um salto do uso da lupa para a identificação detalhada das variações no DNA das plantas, o que amplia a compreensão sobre defesa e uso dos recursos ambientais.</p>
+<p>Na Região Sul, a frente fria associada a um cavado em médios níveis da atmosfera e a um sistema de baixa pressão no interior do país mantém o tempo instável. Desde a manhã, há previsão de pancadas de chuva forte e temporais na metade norte e região central do Rio Grande do Sul, além de chuva no oeste e sul de Santa Catarina e no oeste, sudoeste e parte do sul do Paraná.</p>
+<p>No Sudeste, o bloqueio atmosférico mantém o tempo firme em todos os estados, com exceção de chuva fraca e isolada no litoral do Espírito Santo e no nordeste de Minas Gerais. O sol aparece entre poucas nuvens, favorecendo tardes quentes e madrugadas frias, principalmente nas áreas de maior altitude de Minas Gerais. No leste e sul mineiro e no sul do Espírito Santo, as temperaturas permanecem mais amenas devido à entrada de ventos marítimos. A umidade relativa do ar segue baixa em grande parte de São Paulo, no Triângulo Mineiro, nas faixas norte e centro-oeste de Minas Gerais e no sul do Rio de Janeiro, com índices entre 20% e 30%.</p>
+<p>No Nordeste, a chuva concentra-se na faixa litorânea, com previsão de precipitações moderadas a fortes entre Pernambuco, Paraíba e Rio Grande do Norte, além do trecho entre o Recôncavo Baiano e Ilhéus, onde há risco de alagamentos pontuais devido à circulação de umidade marítima. Temporais são esperados na região de Salvador e entre o litoral do Rio Grande do Norte e da Paraíba. Também há previsão de chuva no litoral do Maranhão, Piauí e Ceará, especialmente no leste cearense. No interior, o tempo permanece firme, com sol, temperaturas elevadas e baixa umidade, principalmente no centro-oeste da Bahia e no sul do Maranhão e do Piauí.</p>
+<p>Na Região Norte, as instabilidades permanecem sobre o Amapá, norte, noroeste, nordeste e litoral do Pará, além da metade norte do Amazonas e de Roraima. Nessas áreas, são esperadas pancadas de chuva moderadas a fortes com trovoadas, principalmente à tarde e à noite, com possibilidade de alagamentos pontuais e temporais no noroeste e norte do Amazonas e em Roraima.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
