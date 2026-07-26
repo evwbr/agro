@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 26 Jul 2026 18:47:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 20:47:38 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Inteligência artificial acelera seleção de milho tolerante à seca]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_f00bb367f0fe974e96f82ef57416ee54e9fb5b62/</link>
+<title><![CDATA[Setor de noz-pecã enfrenta desafios logísticos e tarifários, mas mantém expectativa positiva para 2026]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_6526f24a955eb656daa3486a51dc1923702f3cf2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Jul 2026 18:05:00 GMT</pubDate>
+<pubDate>Sun, 26 Jul 2026 20:02:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:f00bb367f0fe974e96f82ef57416ee54e9fb5b62]]></guid>
-<description><![CDATA[Pesquisadores desenvolveram uma ferramenta que usa imagens e inteligência artificial para identificar rapidamente híbridos de milho mais resistentes ao estresse hídrico.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:6526f24a955eb656daa3486a51dc1923702f3cf2]]></guid>
+<description><![CDATA[A produção brasileira de noz-pecã deve crescer entre 6,5 mil e 7 mil toneladas em 2026, apesar das dificuldades atuais com logística e barreiras comerciais.]]></description>
 <content:encoded><![CDATA[
-<p>A nova tecnologia permite acelerar e ampliar a seleção de materiais promissores para programas de melhoramento genético, reduzindo a dependência de avaliações manuais. O objetivo é contribuir para o desenvolvimento de cultivares mais resilientes aos efeitos das mudanças climáticas.</p>
-<p>Em vez de medir manualmente diversas características das plantas com réguas, balanças e equipamentos como porômetro e clorofilômetro, a proposta é utilizar imagens para identificar rapidamente quais materiais são mais tolerantes ou suscetíveis à seca. O estudo foi realizado com 28 híbridos de milho geneticamente modificados pelo GCCRC, cultivados em Campinas (SP) sob condições com irrigação e com restrição hídrica.</p>
-<p>Durante dois anos, a equipe realizou medições agronômicas convencionais para avaliar o desempenho de cada material sob estresse hídrico, analisando produtividade, altura das plantas, peso dos grãos e tempo de florescimento. Paralelamente, um drone equipado com câmeras RGB e multiespectrais realizou dezenas de voos sobre as áreas experimentais, capturando imagens convencionais e dados na faixa do infravermelho.</p>
-<p>Com base nas imagens, os pesquisadores treinaram algoritmos de inteligência artificial para reproduzir a classificação obtida pelos métodos tradicionais. Em alguns casos, os modelos alcançaram taxas de acerto superiores a 90%, demonstrando o potencial da tecnologia para identificar rapidamente, em larga escala, materiais promissores para o melhoramento genético.</p>
-<p>O estudo revelou que a resposta das plantas à seca varia ao longo do ciclo, e avaliações distribuídas no tempo capturam alterações fisiológicas importantes relacionadas ao estresse hídrico. Sensores multiespectrais, que capturam faixas específicas da luz invisíveis ao olho humano, como o infravermelho próximo, mostraram-se mais eficientes para detectar sinais de estresse do que câmeras convencionais.</p>
-<p>A metodologia desenvolvida pode ser adaptada para outras culturas e aplicações, como a identificação de plantas resistentes a doenças.</p>
+<p>O setor de noz-pecã tem enfrentado dificuldades nos embarques para alguns mercados internacionais devido à instabilidade na região, que reduziu a disponibilidade de contêineres e elevou os custos dos fretes marítimos. Esses fatores dificultam as negociações com compradores e desaceleram o ritmo das exportações.</p>
+<p>Apesar dos desafios logísticos, a expectativa para a próxima safra é positiva, com projeção de produção entre 6,5 mil e 7 mil toneladas em 2026. Esse crescimento será impulsionado pela entrada de novos pomares em fase produtiva e pela possibilidade de recuperação da produtividade.</p>
+<p>Além das questões de transporte, o setor acompanha as incertezas relacionadas à política comercial dos Estados Unidos, que anunciou medidas tarifárias para produtos sul-americanos. Embora haja preocupação com possíveis barreiras, o cenário pode abrir oportunidades para a noz-pecã brasileira, já que Estados Unidos e México tiveram uma safra menor no último ciclo, o que pode manter os preços internacionais elevados.</p>
+<p>Outro desafio para os exportadores brasileiros são as novas regras sanitárias e fitossanitárias adotadas pela Europa para a importação de nozes, que têm dificultado as vendas para o continente. O setor espera que essas exigências sejam revistas para permitir a retomada das exportações ao mercado europeu.</p>
+<p>Enquanto isso, as negociações com a Ásia seguem em ritmo mais lento, e o setor busca ampliar a presença da noz-pecã brasileira em novos mercados. A expectativa é que o cenário internacional comece a melhorar entre julho e agosto, com a estabilização do mercado e a abertura de novas oportunidades para as nozes brasileiras.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
