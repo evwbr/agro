@@ -8,24 +8,23 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Sun, 26 Jul 2026 16:47:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 18:47:47 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Estudo da FAO destaca benefícios econômicos e ambientais dos bioinsumos na América Latina]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_bcad94981b2d9bd423afbd4638bdcfaaa39bfe37/</link>
+<title><![CDATA[Inteligência artificial acelera seleção de milho tolerante à seca]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_f00bb367f0fe974e96f82ef57416ee54e9fb5b62/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Jul 2026 16:01:00 GMT</pubDate>
+<pubDate>Sun, 26 Jul 2026 18:05:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:bcad94981b2d9bd423afbd4638bdcfaaa39bfe37]]></guid>
-<description><![CDATA[Pesquisa da FAO aponta que o uso de bioinsumos na agricultura pode aumentar a rentabilidade e reduzir impactos ambientais, com destaque para o crescimento do mercado na América Latina e Caribe.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:f00bb367f0fe974e96f82ef57416ee54e9fb5b62]]></guid>
+<description><![CDATA[Pesquisadores desenvolveram uma ferramenta que usa imagens e inteligência artificial para identificar rapidamente híbridos de milho mais resistentes ao estresse hídrico.]]></description>
 <content:encoded><![CDATA[
-<p>Um estudo recente da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) reuniu casos da Argentina, Bolívia, Brasil, Costa Rica e México para analisar os efeitos do uso de bioinsumos na agricultura. A pesquisa indica que esses produtos podem trazer vantagens econômicas, ambientais e produtivas, embora os resultados variem cultura, o tipo de solo, as condições agroecológicas, o tamanho da propriedade e o nível tecnológico adotado.</p>
-<p>A América Latina e o Caribe lideram o crescimento mundial do mercado de bioinsumos, com expansão superior a 10% ao ano. Enquanto a média global de adoção de bioestimulantes, biofertilizantes e agentes de biocontrole é de 38%, o Brasil apresenta um índice de 67%, um dos mais elevados do mundo.</p>
-<p>O interesse pelos bioinsumos aumentou após a alta dos preços dos fertilizantes, causada pelo aumento do custo do gás natural e pelos efeitos da guerra na Ucrânia. Além de reduzir custos, esses produtos ajudam a preservar a fertilidade do solo, diminuem o impacto ambiental da agricultura e tornam os sistemas produtivos mais resistentes a crises externas.</p>
-<p>O estudo avaliou diferentes formas de adoção e produção de bioinsumos, incluindo o uso de produtos comerciais, a fabricação nas próprias propriedades e a operação de biofábricas cooperativas. Casos na cana-de-açúcar no México e nas culturas de soja e uva na Bolívia mostraram que a combinação de bioinsumos comerciais com a redução parcial de agroquímicos aumentou a rentabilidade, seja pelo ganho de produtividade, seja pela redução dos custos.</p>
-<p>Nas propriedades que produzem seus próprios bioinsumos, os resultados foram mais variados, pois o aumento da necessidade de mão de obra reduziu parte das vantagens econômicas. Ainda assim, a produção interna pode ser competitiva em regiões distantes dos centros de abastecimento, desde que sejam adotados protocolos técnicos e controle de qualidade para garantir a eficácia e segurança dos produtos. Biofábricas cooperativas tendem a ser viáveis financeiramente quando a produção acompanha a demanda local e utiliza a infraestrutura disponível.</p>
-<p>Além dos benefícios financeiros, o uso de bioinsumos contribui para a redução das emissões de gases de efeito estufa e para o uso mais eficiente da água. O estudo ressalta que esses ganhos podem ser ainda maiores, pois faltam dados sobre os impactos na saúde do solo, na biodiversidade e na saúde humana. Também destaca o potencial dos bioinsumos para facilitar o acesso a mercados internacionais mais exigentes, especialmente para produtos exportados como café, cacau, banana e abacate, ao ajudar a cumprir limites máximos de resíduos de pesticidas.</p>
-<p>Com base nos resultados, a FAO recomenda ampliar investimentos e políticas públicas para incentivar a adoção de bioinsumos na região. Entre as medidas sugeridas estão o fortalecimento do financiamento e da assistência técnica para apoiar pequenos produtores na transição, o aumento das pesquisas científicas, o aprimoramento dos sistemas de controle de qualidade e a consolidação de marcos regulatórios que aumentem a confiança do mercado e estimulem a expansão dessa tecnologia na agricultura.</p>
+<p>A nova tecnologia permite acelerar e ampliar a seleção de materiais promissores para programas de melhoramento genético, reduzindo a dependência de avaliações manuais. O objetivo é contribuir para o desenvolvimento de cultivares mais resilientes aos efeitos das mudanças climáticas.</p>
+<p>Em vez de medir manualmente diversas características das plantas com réguas, balanças e equipamentos como porômetro e clorofilômetro, a proposta é utilizar imagens para identificar rapidamente quais materiais são mais tolerantes ou suscetíveis à seca. O estudo foi realizado com 28 híbridos de milho geneticamente modificados pelo GCCRC, cultivados em Campinas (SP) sob condições com irrigação e com restrição hídrica.</p>
+<p>Durante dois anos, a equipe realizou medições agronômicas convencionais para avaliar o desempenho de cada material sob estresse hídrico, analisando produtividade, altura das plantas, peso dos grãos e tempo de florescimento. Paralelamente, um drone equipado com câmeras RGB e multiespectrais realizou dezenas de voos sobre as áreas experimentais, capturando imagens convencionais e dados na faixa do infravermelho.</p>
+<p>Com base nas imagens, os pesquisadores treinaram algoritmos de inteligência artificial para reproduzir a classificação obtida pelos métodos tradicionais. Em alguns casos, os modelos alcançaram taxas de acerto superiores a 90%, demonstrando o potencial da tecnologia para identificar rapidamente, em larga escala, materiais promissores para o melhoramento genético.</p>
+<p>O estudo revelou que a resposta das plantas à seca varia ao longo do ciclo, e avaliações distribuídas no tempo capturam alterações fisiológicas importantes relacionadas ao estresse hídrico. Sensores multiespectrais, que capturam faixas específicas da luz invisíveis ao olho humano, como o infravermelho próximo, mostraram-se mais eficientes para detectar sinais de estresse do que câmeras convencionais.</p>
+<p>A metodologia desenvolvida pode ser adaptada para outras culturas e aplicações, como a identificação de plantas resistentes a doenças.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
