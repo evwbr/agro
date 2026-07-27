@@ -8,54 +8,57 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Mon, 27 Jul 2026 22:08:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 23:09:01 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Mercado brasileiro de soja inicia semana com queda nos preços e ritmo lento de negociações]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_a0371620680c1366a5ac1e2de71120d9a8e8e074/</link>
+<title><![CDATA[Controle de aeração e nutrientes aumenta produção de fungo para biopesticidas na agricultura]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_a54f663edcc4421368f8cc36150a00e564fb3c10/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 21:53:27 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 22:34:00 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:a0371620680c1366a5ac1e2de71120d9a8e8e074]]></guid>
-<description><![CDATA[Os preços da soja recuaram na maior parte das regiões brasileiras acompanhadas, enquanto os contratos futuros da commodity fecharam em forte baixa na Bolsa de Chicago.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:a54f663edcc4421368f8cc36150a00e564fb3c10]]></guid>
+<description><![CDATA[Pesquisadores identificaram que ajustar a aeração e a proporção de carbono e nitrogênio no cultivo do fungo Clonostachys rosea potencializa a produção de estruturas reprodutivas e resistentes, ampliando alternativas sustentáveis para o controle biológico de doenças como a podridão cinzenta.]]></description>
 <content:encoded><![CDATA[
-<p>O mercado brasileiro de soja começou a semana com negociações lentas e queda nas cotações em diversas regiões. Em Passo Fundo (RS), o preço da soja caiu de R$ 144,00 para R$ 142,00; em Santa Rosa (RS), de R$ 145,00 para R$ 143,00; em Cascavel (PR), de R$ 138,00 para R$ 137,00; em Rondonópolis (MT), de R$ 132,00 para R$ 131,00; em Dourados (MS), de R$ 130,00 para R$ 129,00; em Rio Verde (GO), de R$ 133,00 para R$ 132,00; em Paranaguá (PR), de R$ 149,00 para R$ 148,99; e em Rio Grande (RS), de R$ 150,00 para R$ 148,00.</p>
-<p>No mercado internacional, os contratos futuros da soja encerraram a segunda-feira em forte baixa na Bolsa de Mercadorias de Chicago (CBOT). A queda foi influenciada pela desvalorização dos preços do petróleo, provocada pela expectativa de retomada das negociações entre Irã e Estados Unidos, que pressionou as commodities em Londres e Nova York.</p>
-<p>O mercado também aguarda o relatório semanal do Departamento de Agricultura dos Estados Unidos (USDA) sobre as condições das lavouras, com expectativa de redução nas áreas classificadas entre boas e excelentes devido ao calor intenso no cinturão produtor americano.</p>
-<p>No mercado de câmbio, o dólar comercial valorizou-se 0,62%, encerrando o dia cotado a R$ 5,1123 para venda e R$ 5,1103 para compra. Durante a sessão, a moeda oscilou entre R$ 5,0763 e R$ 5,1128.</p>
+<p>O fungo Clonostachys rosea atua como um agente natural de defesa das plantas, combatendo patógenos, insetos e nematoides. O avanço na produção desse microrganismo pode contribuir para o desenvolvimento de biopesticidas mais sustentáveis, oferecendo novas opções para o controle biológico na agricultura.</p>
+<p>A pesquisa focou em duas variáveis no cultivo do fungo: a quantidade de ar disponível e a proporção entre carbono e nitrogênio no meio de crescimento. O controle dessas condições aumentou a produção de conídios, que são esporos responsáveis pela reprodução, e de microscleródios, estruturas resistentes que sobrevivem em condições adversas, podendo ser transformadas em produtos para controle biológico.</p>
+<p>A podridão cinzenta, causada pelo fungo Botrytis cinerea, é uma das doenças mais prejudiciais para a agricultura, afetando diversas espécies de plantas e causando perdas tanto no campo quanto após a colheita. O uso de fungos benéficos como o Clonostachys rosea representa uma alternativa ao uso intensivo de defensivos químicos, pois esse fungo ataca patógenos, estimula defesas naturais das plantas e produz substâncias antifúngicas.</p>
+<p>Os resultados mostraram que maior disponibilidade de oxigênio elevou significativamente a produção de microscleródios, enquanto uma proporção mais alta de carbono em relação ao nitrogênio favoreceu a formação de conídios, desde que houvesse boa circulação de ar. Já os microscleródios surgiram apenas em meios com menor proporção de carbono e maior aeração, ampliando a resistência do fungo.</p>
+<p>Os pesquisadores transformaram as estruturas produzidas pelo fungo e os líquidos do cultivo em grânulos que podem ser aplicados como produtos agrícolas convencionais. Testes com tomate-cereja exposto ao fungo causador da podridão cinzenta mostraram redução na incidência da doença. Análises químicas identificaram sorbicilinoides, compostos naturais com ação antifúngica, que provavelmente contribuem para a proteção das plantas.</p>
+<p>Apesar dos resultados promissores, são necessários testes em condições mais próximas da realidade agrícola, incluindo escalonamento industrial, avaliações em estufas e lavouras comerciais, testes em diferentes temperaturas e umidades, estudos sobre armazenamento e validade, análises de segurança alimentar e comparações de custo e desempenho com soluções existentes.</p>
+<p>Caso confirmada em escala comercial, a tecnologia poderá reduzir a dependência de fungicidas sintéticos em fases críticas como transporte e armazenamento de frutas sensíveis à podridão cinzenta, como tomate, morango, cereja e uva. A combinação entre estruturas vivas do fungo e compostos antifúngicos naturais pode criar uma estratégia dupla de combate às doenças, aumentando a eficiência do controle.</p>
+<p>O estudo representa um avanço na aproximação entre ciência e aplicação prática, demonstrando que o controle da aeração e da relação entre carbono e nitrogênio no cultivo submerso de Clonostachys rosea altera previsivelmente a produção de propágulos úteis. Esses materiais, junto aos metabólitos do cultivo, reduziram a incidência da podridão cinzenta em tomate-cereja em testes experimentais, acelerando a transição da pesquisa para a aplicação comercial.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Juros futuros caem com recuo do petróleo e menor risco geopolítico]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_0ca0848d195d0f36131cdb5fb3c4efed6a17c2aa/</link>
+<title><![CDATA[Encerramento do lançamento do Plano Safra da Agricultura Familiar 2026/27 será em Feira de Santana]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_acbf41d489c08b75ea50032fe2fbc44b198fc558/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 21:22:40 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 22:33:13 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:0ca0848d195d0f36131cdb5fb3c4efed6a17c2aa]]></guid>
-<description><![CDATA[Os juros futuros fecharam em queda nesta segunda-feira, influenciados pela queda do petróleo e pela redução da tensão entre Estados Unidos e Irã.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:acbf41d489c08b75ea50032fe2fbc44b198fc558]]></guid>
+<description><![CDATA[O evento de encerramento do lançamento do Plano Safra da Agricultura Familiar 2026/27 na Bahia ocorrerá nesta terça-feira, no Teatro Central da UEFS, em Feira de Santana.]]></description>
 <content:encoded><![CDATA[
-<p>O mercado financeiro registrou queda nos juros futuros em um pregão marcado pela diminuição do preço do petróleo e pela menor percepção de risco geopolítico após a suspensão das ofensivas entre Estados Unidos e Irã. As declarações do ex-presidente Donald Trump contribuíram para ampliar as perdas do petróleo ao longo do dia.</p>
-<p>O barril de petróleo Brent para outubro encerrou a sessão cotado a US$ 85,87, com uma queda de 6,3%, após ter recuado até 8% durante o pregão. No mercado de juros, o contrato de Depósito Interfinanceiro (DI) para janeiro de 2027 fechou em 13,9%, abaixo dos 13,96% do ajuste anterior, atingindo a mínima intradia. Já o DI para janeiro de 2029 caiu de 14,457% na sexta-feira para 14,31%.</p>
-<p>O Banco Central divulgou um relatório com pequenas revisões nas projeções para o Índice Nacional de Preços ao Consumidor Amplo (IPCA). A estimativa para 2026 foi reduzida de 5,15% para 5,12%, enquanto para 2027 subiu de 4,20% para 4,22% e para 2028 avançou de 3,78% para 3,80%.</p>
-<p>Economistas do Bank of America destacaram que não apenas o nível do preço do petróleo, mas também sua volatilidade, exerce impacto inflacionário. Eles ressaltaram que o efeito indireto da oscilação da commodity pode persistir caso alguns preços acompanhem a alta do petróleo e demorem a recuar posteriormente.</p>
-<p>No Espírito Santo, o mercado também considerou a expectativa de manutenção da taxa de juros nos Estados Unidos na reunião do Comitê de Mercado Aberto (Fomc), marcada para esta quarta-feira. As atenções se voltam ainda para a divulgação do IPCA-15 de julho, prevista para esta terça-feira.</p>
+<p>A cerimônia de encerramento do lançamento do Plano Safra da Agricultura Familiar 2026/27 na Bahia está marcada para esta terça-feira (28), às 12h, no Teatro Central da Universidade Estadual de Feira de Santana (UEFS), em Feira de Santana.</p>
+<p>A ministra do Desenvolvimento Agrário e Agricultura Familiar, Fernanda Machiaveli, participará do evento, que integra a agenda oficial do Plano Safra da Agricultura Familiar no estado.</p>
+<p>Após o encerramento em Feira de Santana, a ministra seguirá para o município de Irecê, onde às 15h30 estará presente na inauguração da Agroindústria de Beneficiamento de Milho da Cooperativa Agropecuária Mista Regional de Irecê (COPIRECÊ).</p>
+<p>A programação do dia reúne dois compromissos importantes para a agricultura familiar na Bahia: o encerramento do lançamento do Plano Safra e a abertura da nova agroindústria dedicada ao beneficiamento de milho.</p>
+<p>Assim, a agenda desta terça-feira concentra-se em Feira de Santana para o evento oficial do Plano Safra e em Irecê para a inauguração da estrutura que beneficiará a produção local de milho.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Movimentos sociais e conselhos nacionais iniciam construção coletiva do Plano Safra 2025/2026]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_07972ec86a2abd0f7c835f07429f12f1cd05a712/</link>
+<title><![CDATA[Brasil avança na abertura de mercado para a Coreia do Sul e registra leve alta nos preços do boi gordo]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_11b597608ed6f0cf4c5c84af1c42327a102709e2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 21:12:17 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 22:15:31 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:07972ec86a2abd0f7c835f07429f12f1cd05a712]]></guid>
-<description><![CDATA[Movimentos sociais e conselhos nacionais se reuniram para debater e elaborar propostas para o Plano Safra 2025/2026, com foco na agroecologia e políticas integradas.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:11b597608ed6f0cf4c5c84af1c42327a102709e2]]></guid>
+<description><![CDATA[O volume embarcado de carne bovina apresentou melhora semanal, enquanto o Brasil intensifica negociações para exportar à Coreia do Sul, com missão sul-coreana prevista para agosto.]]></description>
 <content:encoded><![CDATA[
-<p>A atividade reuniu movimentos sociais e os conselhos nacionais Condraf, CNAPO, Consea e Cnes em um espaço conjunto de diálogo voltado à construção do Plano Safra 2025/2026. A oficina marcou a retomada do Grupo de Trabalho (GT) do Plano Safra, que tem como objetivo a elaboração coletiva de propostas para o próximo ciclo.</p>
-<p>O encontro buscou ouvir os avanços e os desafios do plano atualmente em vigor, além de reunir subsídios para o planejamento da próxima safra. Durante o debate, foi ressaltado o papel da agroecologia e a importância do fortalecimento de políticas integradas para o novo plano.</p>
-<p>Representantes da sociedade civil e dos conselhos apresentaram avaliações, críticas e sugestões baseadas em diferentes territórios e realidades sociais. A proposta dos participantes é ampliar a construção participativa da política para a agricultura familiar.</p>
-<p>Samuel de Albuquerque Carvalho, secretário-executivo do Conselho Nacional de Desenvolvimento Rural Sustentável (Condraf), destacou que a articulação entre os conselhos e as organizações da agricultura familiar busca reunir convergências para fortalecer a pauta da agroecologia e da produção de alimentos saudáveis.</p>
-<p>Patrícia Tavares, secretária-executiva da Comissão Nacional de Agroecologia e Produção Orgânica (CNAPO), afirmou que a iniciativa amplia a incidência articulada sobre o Plano Safra, tratado no debate como um arranjo de políticas para a transição dos sistemas alimentares.</p>
-<p>Ao final da oficina, foram sistematizados os encaminhamentos prioritários para os trabalhos do GT Plano Safra. O grupo continuará ativo nos próximos meses para consolidar uma proposta inclusiva e territorializada para o Plano Safra 2025/2026, com lançamento previsto para julho deste ano.</p>
+<p>O volume de carne bovina embarcado entre uma semana e outra mostrou melhora, indicando avanço nas exportações. Paralelamente, o Brasil está avançando nas tratativas para abrir o mercado sul-coreano à carne brasileira. Uma missão da Coreia do Sul deve visitar o país em agosto para inspecionar frigoríficos, etapa essencial para consolidar essa abertura comercial.</p>
+<p>Os preços médios do boi gordo registraram leve alta em várias regiões. Minas Gerais teve aumento de R$ 320,29 para R$ 321,76, Mato Grosso do Sul de R$ 332,05 para R$ 332,61, e Mato Grosso de R$ 321,76 para R$ 323,04.</p>
+<p>No mercado atacadista, os preços da carne bovina permanecem estáveis, refletindo um ambiente de negócios com espaço limitado para avanços mais expressivos. A indústria enfrenta dificuldades para repassar aumentos ao consumidor devido ao baixo poder de compra da população brasileira.</p>
+<p>Além disso, a carne bovina enfrenta forte concorrência de outras proteínas, especialmente a carne de frango, que se mantém mais competitiva.</p>
+<p>No mercado cambial, o dólar comercial encerrou o dia com alta de 0,62%, cotado a R$ 5,1123 para venda e R$ 5,1103 para compra. Durante a sessão, a moeda oscilou entre R$ 5,0763 e R$ 5,1128.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
