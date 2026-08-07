@@ -8,22 +8,23 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 07 Aug 2026 22:08:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 23:08:33 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Ibovespa cai 1,73% e dólar comercial fecha em baixa nesta sexta-feira]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_b64eaf4171f0bfc869b9dc4cfa2849ff69bf706f/</link>
+<title><![CDATA[Desmatamento na Amazônia cai 36,87% entre agosto de 2025 e julho de 2026]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_cee8a57e55fda2eaf5c639834407dc21273bf1cd/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 07 Aug 2026 21:42:13 GMT</pubDate>
+<pubDate>Fri, 07 Aug 2026 22:00:18 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:b64eaf4171f0bfc869b9dc4cfa2849ff69bf706f]]></guid>
-<description><![CDATA[O Ibovespa encerrou a sexta-feira em queda de 1,73%, enquanto o dólar comercial registrou baixa de 0,46%.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:cee8a57e55fda2eaf5c639834407dc21273bf1cd]]></guid>
+<description><![CDATA[O desmatamento na Amazônia registrou queda de 36,87% no período de agosto de 2025 a julho de 2026.]]></description>
 <content:encoded><![CDATA[
-<p>O Ibovespa fechou o dia aos 172.513,42 pontos, com variação negativa de 1,73%. Durante a sessão, o índice oscilou entre a máxima de 176.117 pontos, alta de 0,32%, e a mínima de 172.131 pontos, queda de 1,95%.</p>
-<p>Entre as ações de maior peso, Itaú Unibanco PN recuou 2,58%, cotado a R$ 40,75. As ações da Petrobras também registraram queda: Petrobras PN caiu 2,99%, a R$ 40,87, e Petrobras ON teve baixa de 3,42%, a R$ 45,69.</p>
-<p>No mercado cambial, o dólar comercial terminou o dia cotado a R$ 5,0826 na compra e R$ 5,0836 na venda, com queda de 0,46%. O dólar paralelo caiu 1,51%, negociado a R$ 5,17 na compra e R$ 5,27 na venda. O dólar Ptax recuou 0,21%, com compra a R$ 5,0902 e venda a R$ 5,0908. O dólar turismo fechou em baixa de 1,45%, cotado a R$ 5,15 na compra e R$ 5,24 na venda.</p>
-<p>O euro fechou estável no mercado internacional, cotado a US$ 1,1557 na compra e US$ 1,1561 na venda às 18h. No mercado doméstico, o euro comercial caiu 0,14%, negociado a R$ 5,8760 na compra e R$ 5,8770 na venda. O euro turismo recuou 1,15%, cotado a R$ 5,98 na compra e R$ 6,0770 na venda.</p>
-<p>Nos juros, o CDB prefixado de 30 dias ficou em 13,89% ao ano, enquanto o CDI e o over encerraram em 13,90% ao ano. No exterior, o índice Dow Jones subiu 0,28%, aos 54.036,93 pontos, e o Nasdaq avançou 1,3%, aos 26.690,62 pontos.</p>
+<p>O Instituto Nacional de Pesquisas Espaciais (Inpe) divulgou que, entre agosto de 2025 e julho de 2026, foram registrados 2.874,38 km² de área sob alerta de desmatamento na Amazônia, contra 4.495 km² no ciclo anterior. Esse é o menor índice desde 2016, início da série histórica do monitoramento.</p>
+<p>O volume registrado no ciclo 2025/2026 ficou 55,6% abaixo da média dos últimos dez ciclos, que vão de 2015/2016 a 2025/2026. No Cerrado, o Deter apontou uma redução de 7,8% no mesmo período, com 5.119,46 km² de área identificada sob alerta. Diferentemente da Amazônia, a maior parte das áreas desmatadas no Cerrado está em propriedades privadas.</p>
+<p>Os alertas emitidos pelo sistema são fundamentais para a atuação rápida dos órgãos ambientais diante de indícios de desmatamento. Entre os estados da Amazônia, os maiores volumes de alertas foram registrados no Pará (987,27 km²), Mato Grosso (834,41 km²), Amazonas (433,9 km²), Roraima (272,6 km²), Acre (153,8 km²) e Rondônia (114,3 km²).</p>
+<p>Na comparação com o ciclo anterior, o Pará teve queda de 25,5% nos alertas, Mato Grosso de 49%, Amazonas de 46,7%, Acre de 35,3% e Rondônia de 41,2%.</p>
+<p>O Pantanal apresentou a maior queda, de 65,4%, seguido pelo Pampa (41,7%), Caatinga (34,3%), Amazônia (15,8%) e Cerrado (11,5%). Durante a apresentação dos dados, o presidente Luiz Inácio Lula da Silva mencionou os números ao comentar tarifas extras impostas pelos Estados Unidos a produtos brasileiros.</p>
+<p>O Observatório do Clima avaliou que os dados indicam a possibilidade de cumprir a meta de zerar e reverter o desmatamento até 2030. O Instituto de Pesquisa Ambiental da Amazônia (Ipam) classificou os resultados como significativos e destacou que apontam para uma trajetória de redução do desmatamento na região.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
