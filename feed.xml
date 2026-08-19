@@ -8,21 +8,36 @@
 <atom:link href="https://evwbr.github.io/agro/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/agro/</link>
 <description>Notícias de economia e agronegócio (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Wed, 19 Aug 2026 18:08:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 19:08:34 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Oferta restrita mantém cotações do arroz em alta no Rio Grande do Sul]]></title>
-<link>https://evwbr.github.io/agro/p/agromulti_ee7b97dc1a8ae5bf3b768678ec6d8b6539bbb7d7/</link>
+<title><![CDATA[Funcionários da Cargill em Fort Morgan aprovam acordo e encerram locaute após quase três meses]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_415f6fbab27eea397784a1a9364102444d97aa67/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 19 Aug 2026 15:48:24 GMT</pubDate>
+<pubDate>Wed, 19 Aug 2026 18:27:37 GMT</pubDate>
 <category><![CDATA[Economia e Agronegócio]]></category>
-<guid isPermaLink="false"><![CDATA[agromulti:ee7b97dc1a8ae5bf3b768678ec6d8b6539bbb7d7]]></guid>
-<description><![CDATA[A oferta limitada de arroz no Rio Grande do Sul tem sustentado os preços do cereal nos últimos dias.]]></description>
+<guid isPermaLink="false"><![CDATA[agromulti:415f6fbab27eea397784a1a9364102444d97aa67]]></guid>
+<description><![CDATA[Os trabalhadores da unidade de processamento de carne bovina da Cargill em Fort Morgan, Colorado, aprovaram um novo acordo coletivo que permite a reabertura da planta após quase três meses de paralisação.]]></description>
 <content:encoded><![CDATA[
-<p>O mercado de arroz no Rio Grande do Sul enfrenta uma oferta restrita, o que tem contribuído para a manutenção dos preços elevados do produto.</p>
-<p>Produtores permanecem cautelosos e retraídos, aguardando a possibilidade de preços ainda mais altos para realizar suas negociações.</p>
-<p>/Agência Brasil O mercado de arroz no Rio Grande do Sul tem registrado oferta restrita nos últimos dias, cenário que tem dado sustentação às cotações do cereal. Centro de Estudos Avançados em Economia Aplicada (Cepea), a necessidade de compra das indústrias e as condições climáticas também têm contribuído para esse movimento.</p>
-<p>Ainda centro de estudos, produtores da mercadoria seguem retraídos, na expectativa de valores mais elevados para negociação.</p>
+<p>A unidade da Cargill em Fort Morgan estava parada desde 20 de maio, quando a empresa decretou um locaute e impediu a entrada de cerca de 2 mil funcionários. A medida foi tomada após 85% dos trabalhadores sindicalizados rejeitarem uma proposta contratual anterior.</p>
+<p>Os empregados são representados pelo sindicato Teamsters Local 455, que criticou a postura da empresa durante as negociações. O secretário-tesoureiro do sindicato, Dean Modecker, acusou a Cargill de adotar uma conduta abusiva contra os trabalhadores no processo.</p>
+<p>Durante a paralisação, a Cargill alertou para riscos operacionais e de segurança alimentar relacionados ao manejo de animais vivos, caso a greve fosse deflagrada. A ratificação do novo acordo coletivo foi divulgada oficialmente na segunda-feira (17), autorizando a retomada das atividades.</p>
+<p>Durante a transição, a Cargill continuará utilizando sua rede logística complementar para atender os clientes da cadeia de carne bovina. A aprovação do contrato coletivo encerra o impasse e marca o início da retomada operacional da unidade de Fort Morgan.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Teresina recebe apresentação do Plano Safra da Agricultura Familiar 2026/27]]></title>
+<link>https://evwbr.github.io/agro/p/agromulti_f3e2610c0894c9d85a4e1732a41af227134dd584/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 19 Aug 2026 17:59:10 GMT</pubDate>
+<category><![CDATA[Economia e Agronegócio]]></category>
+<guid isPermaLink="false"><![CDATA[agromulti:f3e2610c0894c9d85a4e1732a41af227134dd584]]></guid>
+<description><![CDATA[No dia 20 de agosto, Teresina sediará a apresentação do Plano Safra da Agricultura Familiar 2026/27, com foco em ações para fortalecer o setor no Piauí.]]></description>
+<content:encoded><![CDATA[
+<p>A cerimônia ocorrerá às 11h no Auditório do Senai e contará com a presença da ministra do Desenvolvimento Agrário e Agricultura Familiar, Fernanda Machiaveli.</p>
+<p>O evento terá como objetivo apresentar as ações e medidas previstas para o próximo ciclo do Plano Safra, destacando os resultados das políticas públicas voltadas ao acesso ao crédito, comercialização e inclusão produtiva da agricultura familiar.</p>
+<p>Além disso, será lançado o Edital da Juventude Rural Transformadora, programa que promove a qualificação e o fomento para jovens do campo no estado do Piauí.</p>
+<p>A programação reunirá iniciativas de apoio à produção e à qualificação no campo, reforçando a estrutura de suporte aos produtores da agricultura familiar no estado.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
